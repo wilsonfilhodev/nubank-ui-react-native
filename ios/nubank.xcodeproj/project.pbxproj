@@ -58,6 +58,11 @@
 		65684545BBE5401580377E20 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A4398B15D9E141DC8591A8C9 /* Octicons.ttf */; };
 		4647D3DD581F4F9CA56D80B5 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8ACB3FD3DEDD478AB77FBF01 /* SimpleLineIcons.ttf */; };
 		A10C5E235B91425FA9B3439B /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 26CEDBC37DDB47F79938DCE1 /* Zocial.ttf */; };
+		AE5C9752BEAC407B87D4E054 /* Muli Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC802A4D8D334259B612A288 /* Muli Regular.ttf */; };
+		7821422EB0BF4181A25357A7 /* Muli Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 089FF053E8C949DF9E348981 /* Muli Black.ttf */; };
+		8089A728A6094D44A37FF651 /* Muli Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D8B4A597030647A4B5C68965 /* Muli Bold.ttf */; };
+		D35B2222164F40F7BB57C311 /* Muli Extra Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 69665615815342199B270F79 /* Muli Extra Bold.ttf */; };
+		EC5CD9A54EDD40999EC6999C /* Muli Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 84407EF39C914457B630AEDF /* Muli Light.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -386,6 +391,11 @@
 		A4398B15D9E141DC8591A8C9 /* Octicons.ttf */ = {isa = PBXFileReference; name = "Octicons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		8ACB3FD3DEDD478AB77FBF01 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; name = "SimpleLineIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		26CEDBC37DDB47F79938DCE1 /* Zocial.ttf */ = {isa = PBXFileReference; name = "Zocial.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EC802A4D8D334259B612A288 /* Muli Regular.ttf */ = {isa = PBXFileReference; name = "Muli Regular.ttf"; path = "../src/assets/fonts/Muli Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		089FF053E8C949DF9E348981 /* Muli Black.ttf */ = {isa = PBXFileReference; name = "Muli Black.ttf"; path = "../src/assets/fonts/Muli Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D8B4A597030647A4B5C68965 /* Muli Bold.ttf */ = {isa = PBXFileReference; name = "Muli Bold.ttf"; path = "../src/assets/fonts/Muli Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		69665615815342199B270F79 /* Muli Extra Bold.ttf */ = {isa = PBXFileReference; name = "Muli Extra Bold.ttf"; path = "../src/assets/fonts/Muli Extra Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		84407EF39C914457B630AEDF /* Muli Light.ttf */ = {isa = PBXFileReference; name = "Muli Light.ttf"; path = "../src/assets/fonts/Muli Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -675,6 +685,11 @@
 				A4398B15D9E141DC8591A8C9 /* Octicons.ttf */,
 				8ACB3FD3DEDD478AB77FBF01 /* SimpleLineIcons.ttf */,
 				26CEDBC37DDB47F79938DCE1 /* Zocial.ttf */,
+				EC802A4D8D334259B612A288 /* Muli Regular.ttf */,
+				089FF053E8C949DF9E348981 /* Muli Black.ttf */,
+				D8B4A597030647A4B5C68965 /* Muli Bold.ttf */,
+				69665615815342199B270F79 /* Muli Extra Bold.ttf */,
+				84407EF39C914457B630AEDF /* Muli Light.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -1141,6 +1156,11 @@
 				65684545BBE5401580377E20 /* Octicons.ttf in Resources */,
 				4647D3DD581F4F9CA56D80B5 /* SimpleLineIcons.ttf in Resources */,
 				A10C5E235B91425FA9B3439B /* Zocial.ttf in Resources */,
+				AE5C9752BEAC407B87D4E054 /* Muli Regular.ttf in Resources */,
+				7821422EB0BF4181A25357A7 /* Muli Black.ttf in Resources */,
+				8089A728A6094D44A37FF651 /* Muli Bold.ttf in Resources */,
+				D35B2222164F40F7BB57C311 /* Muli Extra Bold.ttf in Resources */,
+				EC5CD9A54EDD40999EC6999C /* Muli Light.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

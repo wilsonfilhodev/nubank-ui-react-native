@@ -18,4 +18,5 @@ export const Title = styled.Text`
   color: #fff;
   font-weight: bold;
   margin-left: 8px;
+  font-family: 'Muli Bold';
 `;
